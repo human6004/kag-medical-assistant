@@ -1,20 +1,31 @@
+# môi trường và khóa
 *.env
+.env
 venv/
+.venv/
+*.key
+
+# artefact của KAG
+ckpt/
+kag/builder/ckpt/
+kag/solver/benchmark.txt
+kag/solver/legal_res_*.json
+kag/solver/legal_metrics_*.json
+
+# dữ liệu thô, bỏ comment nếu không muốn commit
+# kag/builder/data/*.md
+
+# build
 /*.whl
 /*.egg-info/
 /build/
-# *.json
-*.jsonl
-# *.csv
-#*.txt
+/dist
+*.pyc
+*__pycache__/
 *.log
 *.out
-*.key
-*.jc
-*.pyc
-/dist
-*.vscode/
+
+# editor
 .idea/
-*__pycache__/
+*.vscode/
 .DS_Store
-*kag-demo/
