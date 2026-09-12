@@ -6,9 +6,23 @@ Trợ lý hỏi đáp luật an ninh mạng và truyền thông Việt Nam, dự
 ## Thư mục
 
 ```
+data/       kho văn bản luật, dùng chung cho cả hai bên
 docker/     hạ tầng: file compose dựng OpenSPG server, Neo4j, MySQL, MinIO
 kag/        dự án KAG, namespace Legal
 hybridRAG/  nền so sánh, chạy độc lập, không liên quan tới kag/
+```
+
+Kho dữ liệu nằm một chỗ duy nhất và cả hai bên cùng đọc từ đó, nên không sợ lệch
+bản. 46 văn bản đã làm sạch, chia bốn nhóm: luật an ninh mạng Việt Nam, luật an
+ninh mạng quốc tế, luật AI Việt Nam, luật AI quốc tế.
+
+```
+data/
+├── processed/   46 file .md, đây là thứ cả hai engine đọc
+├── raw/         bản gốc pdf, docx, html. Không đưa vào git vì nặng 59MB
+├── metadata/    62 file json mô tả từng văn bản
+├── README.md    quy tắc đặt tên và cấu trúc dữ liệu
+└── SOURCES.md   danh sách nguồn đã thẩm định
 ```
 
 **Mã nguồn KAG không nằm trong repo này.** Nó là thư viện Python cài riêng, xem
@@ -19,8 +33,7 @@ kag/
 ├── kag_config.yaml        khai API key, namespace, model
 ├── schema/Legal.schema    khuôn node và cạnh, phải trùng tên namespace
 ├── builder/
-│   ├── indexer.py         dựng đồ thị
-│   └── data/              bỏ file .md của bạn vào đây
+│   └── indexer.py         dựng đồ thị, đọc từ data/processed
 └── solver/
     ├── eval.py            chạy hỏi đáp và ghi benchmark.txt
     └── data/questions.json  bộ câu hỏi để chấm
@@ -65,9 +78,13 @@ trước khi cho đi tiếp.
 knext schema commit
 ```
 
-**5. Dựng đồ thị.** Bỏ **một** file `.md` vào `kag/builder/data/` rồi chạy trong
-thư mục đó. Mỗi văn bản là một lần tốn tiền gọi AI, nên chạy thử một file, thấy
-node hiện trên giao diện web rồi mới bỏ nốt phần còn lại.
+**5. Dựng đồ thị.** Chạy trong thư mục `kag/builder/`. Lệnh này đọc toàn bộ 46
+văn bản trong `data/processed/`.
+
+Chạy thử một file trước đã. Mỗi văn bản là một lần tốn tiền gọi AI, và 46 văn bản
+là hơn 4 triệu chữ. Cách rẻ nhất để thử: tạm đổi dòng cuối `indexer.py` trỏ vào
+một thư mục con chứa đúng một file, thấy node hiện trên giao diện web rồi mới trỏ
+lại `data/processed`.
 
 ```bash
 python indexer.py

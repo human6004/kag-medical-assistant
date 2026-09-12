@@ -12,8 +12,8 @@ kag/solver/benchmark.txt
 kag/solver/legal_res_*.json
 kag/solver/legal_metrics_*.json
 
-# dữ liệu thô, bỏ comment nếu không muốn commit
-# kag/builder/data/*.md
+# bản gốc pdf/docx/html, 59MB, tải lại được nên không đưa vào git
+data/raw/
 
 # build
 /*.whl

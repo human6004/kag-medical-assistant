@@ -26,7 +26,7 @@ class BuildIndex:
 
     def __init__(self):
 
-        self.loader = MarkdownLoader("knowledge/markdown")
+        self.loader = MarkdownLoader("../data/processed")
         self.cleaner = TextCleaner()
         self.normalizer = TextNormalizer()
 

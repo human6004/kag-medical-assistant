@@ -32,5 +32,5 @@ if __name__ == "__main__":
     dir_path = os.path.dirname(os.path.abspath(__file__))
     import_modules_from_path(dir_path)
 
-    data_dir_path = os.path.join(dir_path, "data")
+    data_dir_path = os.path.join(dir_path, "..", "..", "data", "processed")
     buildKB(data_dir_path)
