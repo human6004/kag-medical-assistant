@@ -22,9 +22,9 @@ NGHỊ ĐỊNH
 
 Quy định về lực lượng bảo vệ an ninh mạng
 
-Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
+Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;
 
-Căn cứ Luật An ninh mạng số 116/2025/QH15;
+Căn cứ Luật An ninh mạng số 116/2025/QH15;
 
 Theo đề nghị của Bộ trưởng Bộ Công an;
 

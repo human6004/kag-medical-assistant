@@ -28,7 +28,7 @@ THỦ TƯỚNG CHÍNH PHỦ
 
 Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025;
 
-Căn cứ Luật Giáo dục ngày 14 tháng 6 năm 2019; Luật sửa đổi, bổ sung một số điều của Luật Giáo dục ngày 10 tháng 12 năm 2025;
+Căn cứ Luật Giáo dục ngày 14 tháng 6 năm 2019; Luật sửa đổi, bổ sung một số điều của Luật Giáo dục ngày 10 tháng 12 năm 2025;
 
 Căn cứ Luật Giáo dục đại học ngày 10 tháng 12 năm 2025;
 
@@ -258,7 +258,7 @@ PHÓ THỦ TƯỚNG
 
 Lê Tiến Châu
 
-#### Phụ lục I
+### Phụ lục I
 
 LỘ TRÌNH THỰC HIỆN CÁC CHỈ TIÊU ĐÀO TẠO, PHÁT TRIỂN
 
@@ -512,7 +512,7 @@ Bộ Giáo dục và Đào tạo
 
 Ghi chú: Chỉ tiêu 1.500 chuyên gia là bộ phận thuộc chỉ tiêu 10.000 nhân lực trình độ cao; các chỉ tiêu đào tạo ở nước ngoài có thể được tính trong tổng chỉ tiêu tương ứng nếu đáp ứng tiêu chí của Chương trình.
 
-#### Phụ lục II
+### Phụ lục II
 
 LỘ TRÌNH PHÁT TRIỂN MẠNG LƯỚI CƠ SỞ ĐÀO TẠO,
 
@@ -648,7 +648,7 @@ Bộ Khoa học và Công nghệ
 
 60
 
-#### Phụ lục III
+### Phụ lục III
 
 LỘ TRÌNH PHÁT TRIỂN HỢP TÁC QUỐC TẾ, DOANH NGHIỆP VÀ CÁC CHƯƠNG TRÌNH ĐÀO TẠO TRÍ TUỆ NHÂN TẠO ỨNG DỤNG GIAI ĐOẠN 2026 - 2030
 
@@ -730,9 +730,9 @@ Bộ Giáo dục và Đào tạo
 
 4
 
-## Chương trình đào tạo tích hợp trí tuệ nhân tạo theo ngành, lĩnh vực (AI+X) được xây dựng hoặc cập nhật
+Chương trình đào tạo tích hợp trí tuệ nhân tạo theo ngành, lĩnh vực (AI+X) được xây dựng hoặc cập nhật
 
-## Chương trình
+Chương trình
 
 Bộ Giáo dục và Đào tạo
 
@@ -748,9 +748,9 @@ Bộ Giáo dục và Đào tạo
 
 5
 
-## Chương trình đào tạo ứng dụng trí tuệ nhân tạo trong các lĩnh vực, ngành nghề ưu tiên (X+AI) được xây dựng hoặc cập nhật
+Chương trình đào tạo ứng dụng trí tuệ nhân tạo trong các lĩnh vực, ngành nghề ưu tiên (X+AI) được xây dựng hoặc cập nhật
 
-## Chương trình
+Chương trình
 
 Bộ Giáo dục và Đào tạo
 
@@ -766,9 +766,9 @@ Bộ Giáo dục và Đào tạo
 
 6
 
-## Chương trình hợp tác quốc tế về đào tạo, nghiên cứu và trao đổi nhân lực trí tuệ nhân tạo
+Chương trình hợp tác quốc tế về đào tạo, nghiên cứu và trao đổi nhân lực trí tuệ nhân tạo
 
-## Chương trình
+Chương trình
 
 Bộ Giáo dục và Đào tạo
 
@@ -782,7 +782,7 @@ Bộ Giáo dục và Đào tạo
 
 100
 
-#### Phụ lục IV
+### Phụ lục IV
 
 DANH MỤC CÁC NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN CHƯƠNG TRÌNH QUỐC GIA
 

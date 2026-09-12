@@ -13,19 +13,18 @@ hybridRAG/  nền so sánh, chạy độc lập, không liên quan tới kag/
 ```
 
 Kho dữ liệu nằm một chỗ duy nhất và cả hai bên cùng đọc từ đó, nên không sợ lệch
-bản. 46 văn bản đã làm sạch, nhưng chỉ 23 văn bản tiếng Việt được index. 23 văn
-bản quốc tế nằm ở `reference_en/`, không engine nào đọc.
+bản. 23 văn bản tiếng Việt đã làm sạch, cả hai engine đọc đúng bộ đó.
 
-Lý do tách: câu hỏi là tiếng Việt và đáp án phải là điều khoản Việt Nam, trong khi
-nửa tiếng Anh chiếm 58% số ký tự. Trộn chung thì thực thể hai ngôn ngữ không gộp
-được, đồ thị vỡ đôi và chi phí gọi AI tăng gấp 2,4 lần. Các văn bản quốc tế vẫn có
-mặt trong đồ thị dưới dạng node văn bản, nạp từ `metadata/`, chỉ là không có chunk
-nội dung.
+Đề tài chỉ trả lời về luật Việt Nam nên corpus tiếng Anh đã bỏ khỏi repo. Lý do:
+câu hỏi là tiếng Việt và đáp án phải là điều khoản Việt Nam, trong khi nửa tiếng
+Anh từng chiếm 58% số ký tự mà không có một cạnh nào nối sang văn bản Việt. Các
+văn bản quốc tế vẫn còn trong đồ thị dưới dạng node văn bản, nạp từ `metadata/`,
+đủ để trả lời tên và ngày hiệu lực, chỉ là không có chunk nội dung. Cần lại bản
+markdown thì lấy từ lịch sử git.
 
 ```
 data/
 ├── processed/     23 file .md luật Việt Nam, đây là thứ cả hai engine đọc
-├── reference_en/  23 file .md luật quốc tế, để đối chiếu, KHÔNG index
 ├── graph/         nodes.json và edges.json sinh từ metadata, nạp thẳng vào đồ thị
 ├── raw/           bản gốc pdf, docx, html. Không đưa vào git vì nặng 59MB
 ├── metadata/      50 file json mô tả từng văn bản

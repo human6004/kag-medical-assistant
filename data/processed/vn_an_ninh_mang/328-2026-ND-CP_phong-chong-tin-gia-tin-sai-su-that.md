@@ -54,7 +54,7 @@ Chính phủ ban hành Nghị định quy định phòng, chống tin giả, tin
 
 sự thật.
 
-## Chương I
+## Chương I
 
 NHỮNG QUY ĐỊNH CHUNG
 
@@ -76,7 +76,7 @@ NHỮNG QUY ĐỊNH CHUNG
 
 4. Cơ quan, tổ chức, cá nhân nước ngoài liên quan đến vi phạm pháp luật về tin giả, tin sai sự thật ảnh hưởng quyền, lợi ích hợp pháp của cá nhân, tổ chức, nước Cộng hòa xã hội chủ nghĩa Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
 
-#### Điều 3. Giải thích từ ngữ
+#### Điều 3. Giải thích từ ngữ
 
 1. Tin giả, tin sai sự thật là thông tin không có thật hoặc có một phần sự thật xâm hại đến an ninh, uy tín, hình ảnh quốc gia, trật tự, an toàn xã hội, quyền, lợi ích hợp pháp của cá nhân, tổ chức gồm các loại thông tin: Thông tin giả, thông tin sai sự thật, thông tin sai lệch, thông tin giả mạo, thông tin bịa đặt, thông tin vu khống, thông tin xuyên tạc.
 

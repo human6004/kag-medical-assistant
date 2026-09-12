@@ -206,7 +206,7 @@ c) Mức phạt tiền tối đa trong xử phạt vi phạm hành chính đối
 
 d) Mức phạt tiền tối đa quy định tại các điểm a, b và c khoản này được áp dụng đối với tổ chức; cá nhân thực hiện cùng hành vi vi phạm thì mức phạt tiền tối đa bằng một phần hai mức phạt tiền đối với tổ chức.
 
-#### Điều 8. Xử phạt vi phạm hành chính trên môi trường điện tử
+#### Điều 8. Xử phạt vi phạm hành chính trên môi trường điện tử
 
 1. Chứng cứ chứng minh hành vi vi phạm trên môi trường điện tử:
 
@@ -234,7 +234,7 @@ b) Việc ban hành quyết định xử phạt vi phạm hành chính trên mô
 
 c) Quyết định xử phạt vi phạm hành chính được ban hành trên môi trường điện tử có giá trị pháp lý như quyết định được ban hành bằng văn bản giấy, là căn cứ để tổ chức thi hành quyết định xử phạt, thực hiện thu, nộp tiền phạt và các biện pháp khắc phục hậu quả theo quy định.
 
-4. Điều kiện thực hiện xử lý vi phạm hành chính trên môi trường điện tử được thực hiện theo quy định tại Nghị định số 118/2021/NĐ-CP ngày 23 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính được sửa đổi, bổ sung theo Nghị định số 68/2025/NĐ-CP và Nghị định số 190/2025/NĐ-CP.
+4. Điều kiện thực hiện xử lý vi phạm hành chính trên môi trường điện tử được thực hiện theo quy định tại Nghị định số 118/2021/NĐ-CP ngày 23 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính được sửa đổi, bổ sung theo Nghị định số 68/2025/NĐ-CP và Nghị định số 190/2025/NĐ-CP.
 
 ## Chương II
 
@@ -1148,7 +1148,7 @@ a) Kinh doanh sản phẩm, dịch vụ an ninh mạng nhưng không có giấy 
 
 b) Kinh doanh sản phẩm, dịch vụ an ninh mạng gây phương hại đến quốc phòng, an ninh, trật tự nhưng chưa đến mức truy cứu trách nhiệm hình sự;
 
-c) Cung cấp thông tin không chính xác hoặc giả mạo thông tin để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng.
+c) Cung cấp thông tin không chính xác hoặc giả mạo thông tin để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng.
 
 5. Hình thức xử phạt bổ sung: Tước quyền sử dụng Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng có thời hạn từ 03 tháng đến 06 tháng đối với hành vi tại điểm a, e khoản 2, điểm b khoản 4 Điều này.
 
@@ -2442,7 +2442,7 @@ VÀ XỬ PHẠT VI PHẠM HÀNH CHÍNH
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.
 
@@ -2450,7 +2450,7 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2458,7 +2458,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 đ) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 5 Nghị định này.
 
-3. Trưởng phòng nghiệp vụ thuộc Cục An ninh đối ngoại, Cục An ninh nội địa, Cục An ninh chính trị nội bộ, Cục An ninh kinh tế, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Cục Quản lý xuất nhập cảnh, Văn phòng Cơ quan cảnh sát điều tra, Cục Cảnh sát điều tra tội phạm về trật tự xã hội, Cục Cảnh sát Quản lý hành chính về trật tự an toàn xã hội, Cục Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn lậu, Trung tâm dữ liệu quốc gia; Trưởng phòng Công an cấp tỉnh gồm: Trưởng phòng An ninh đối ngoại, Trưởng phòng An ninh nội địa, Trưởng phòng An ninh chính trị nội bộ, Trưởng phòng An ninh kinh tế, Trưởng phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Chánh Văn phòng cơ quan cảnh sát điều tra, Trưởng phòng Cảnh sát điều tra tội phạm về trật tự xã hội, Trưởng phòng Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn lậu, Trưởng phòng Cảnh sát Quản lý hành chính về trật tự an toàn xã hội, Trưởng phòng Cảnh sát Hình sự có quyền:
+3. Trưởng phòng nghiệp vụ thuộc Cục An ninh đối ngoại, Cục An ninh nội địa, Cục An ninh chính trị nội bộ, Cục An ninh kinh tế, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Cục Quản lý xuất nhập cảnh, Văn phòng Cơ quan cảnh sát điều tra, Cục Cảnh sát điều tra tội phạm về trật tự xã hội, Cục Cảnh sát Quản lý hành chính về trật tự an toàn xã hội, Cục Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn lậu, Trung tâm dữ liệu quốc gia; Trưởng phòng Công an cấp tỉnh gồm: Trưởng phòng An ninh đối ngoại, Trưởng phòng An ninh nội địa, Trưởng phòng An ninh chính trị nội bộ, Trưởng phòng An ninh kinh tế, Trưởng phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Chánh Văn phòng cơ quan cảnh sát điều tra, Trưởng phòng Cảnh sát điều tra tội phạm về trật tự xã hội, Trưởng phòng Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn lậu, Trưởng phòng Cảnh sát Quản lý hành chính về trật tự an toàn xã hội, Trưởng phòng Cảnh sát Hình sự có quyền:
 
 a) Phạt cảnh cáo;
 
@@ -2506,7 +2506,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2532,7 +2532,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân được quy định tại Chương II;
+b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân được quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.
 
@@ -2540,7 +2540,7 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.
 
@@ -2548,7 +2548,7 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 160.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 80% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 160.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 80% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2574,7 +2574,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 10.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 5% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 10.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 5% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.
 
@@ -2582,27 +2582,27 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này;
 
-d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a và e khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a và e khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
 
 3. Đội trưởng Đội đặc nhiệm phòng chống ma túy và tội phạm thuộc Đoàn đặc nhiệm phòng chống ma túy và tội phạm có quyền:
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 30.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 15% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 30.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 15% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này;
 
-d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a và e khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a và e khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
 
 4. Đồn trưởng Đồn biên phòng, Hải đội trưởng Hải đội biên phòng, Chỉ huy trưởng Ban Chỉ huy Biên phòng Cửa khẩu cảng có quyền:
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 60.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 30% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 60.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 30% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này;
 
@@ -2612,7 +2612,7 @@ d) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 5
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2624,7 +2624,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 200.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 200.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2638,7 +2638,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 10.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 5% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 10.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 5% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.
 
@@ -2646,7 +2646,7 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trên lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 20.000.000 đồng đối với các hành vi vi phạm hành chính trên lĩnh vực an ninh mạng và đến 10% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.
 
@@ -2654,17 +2654,17 @@ c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị 
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 40.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 20% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 40.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 20% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này;
 
-d)  Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a và e khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+d)  Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a và e khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
 
 4. Hải đội trưởng Hải đội Cảnh sát biển có quyền:
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 60.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 30% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 60.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 30% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này;
 
@@ -2674,7 +2674,7 @@ d) Áp dụng biện pháp khắc phục hậu quả quy định tại Điều 5
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 100.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 50% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2682,11 +2682,11 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 đ) Áp dụng biện pháp khắc phục hậu quả tại Điều 5 Nghị định này.
 
-6.  Tư lệnh Vùng Cảnh sát biển, Cục trưởng Cục Nghiệp vụ và Pháp luật thuộc Cảnh sát biển Việt Nam có quyền:
+6.  Tư lệnh Vùng Cảnh sát biển, Cục trưởng Cục Nghiệp vụ và Pháp luật thuộc Cảnh sát biển Việt Nam có quyền:
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 160.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 80% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 160.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 80% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2698,7 +2698,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 200.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 200.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2712,7 +2712,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 160.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 80% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 160.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến 80% mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2724,7 +2724,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 a) Phạt cảnh cáo;
 
-b) Phạt tiền đến 200.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
+b) Phạt tiền đến 200.000.000 đồng đối với các hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và đến mức tiền phạt tối đa đối với lĩnh vực bảo vệ dữ liệu cá nhân quy định tại Chương II;
 
 c) Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
 
@@ -2746,7 +2746,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 1. Người có thẩm quyền xử phạt vi phạm hành chính được quy định tại Điều 72, 73, 74, 75, 76, 77 Nghị định này.
 
-2.  Thanh tra viên khi thực hiện chức năng thanh tra về các lĩnh vực thuộc phạm vi điều chỉnh của Nghị định này; công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân dân, cơ quan thực hiện nhiệm vụ quản lý nhà nước tại Điều 77 Nghị định này đang thi hành công vụ, nhiệm vụ thuộc lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân có thẩm quyền lập biên bản vi phạm hành chính đối với vi phạm hành chính theo chức năng, nhiệm vụ, quyền hạn được giao.
+2.  Thanh tra viên khi thực hiện chức năng thanh tra về các lĩnh vực thuộc phạm vi điều chỉnh của Nghị định này; công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân dân, cơ quan thực hiện nhiệm vụ quản lý nhà nước tại Điều 77 Nghị định này đang thi hành công vụ, nhiệm vụ thuộc lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân có thẩm quyền lập biên bản vi phạm hành chính đối với vi phạm hành chính theo chức năng, nhiệm vụ, quyền hạn được giao.
 
 ## Chương IV
 
@@ -2756,7 +2756,7 @@ d) Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 Nghị định này có hiệu lực thi hành kể từ ngày 19 tháng 8 năm 2026.
 
-#### Điều 81. Điều khoản chuyển tiếp
+#### Điều 81. Điều khoản chuyển tiếp
 
 1. Đối với hành vi vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân xảy ra trước ngày Nghị định này có hiệu lực thi hành mà sau đó mới bị phát hiện hoặc đang được xem xét, giải quyết thì áp dụng quy định của các nghị định của Chính phủ về xử phạt vi phạm hành chính có hiệu lực tại thời điểm thực hiện hành vi vi phạm; trường hợp Nghị định này không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi đó thì áp dụng quy định của Nghị định này.
 
@@ -2780,7 +2780,7 @@ b) Trường hợp cơ quan, chức danh có thẩm quyền xử phạt quy đ�
 
 1. Bộ trưởng Bộ Công an có trách nhiệm theo dõi, hướng dẫn và tổ chức thi hành Nghị định này.
 
-2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
 
 TM. CHÍNH PHỦ
 

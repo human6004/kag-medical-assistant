@@ -132,13 +132,13 @@ Tổ chức, doanh nghiệp kinh doanh sản phẩm, dịch vụ an ninh mạng 
 
 a) Người đại diện theo pháp luật, người quản lý hoặc người được người đại diện theo pháp luật, người quản lý ủy quyền không thuộc một trong các trường hợp sau đây:
 
-Người Việt Nam đã bị khởi tố hình sự mà các cơ quan tiến hành tố tụng của Việt Nam hoặc của nước ngoài đang tiến hành điều tra, truy tố, xét xử hoặc có tiền án về các tội xâm phạm an ninh quốc gia hoặc được cơ quan có thẩm quyền xác định là có hoạt động xâm phạm an ninh quốc gia hoặc các tội khác do lỗi cố ý, chưa được xóa án tích; đang trong thời gian được tạm hoãn chấp hành hình phạt tù; đang bị quản chế, cấm cư trú, cấm đảm nhiệm chức vụ, cấm kinh doanh ngành, nghề kinh doanh có điều kiện về an ninh, trật tự theo quyết định của Tòa án hoặc đang bị áp dụng biện pháp giáo dục tại xã, phường, đặc khu; đang được tạm hoãn, tạm đình chỉ chấp hành quyết định đưa vào cơ sở giáo dục bắt buộc hoặc đưa vào cơ sở cai nghiện bắt buộc.
+Người Việt Nam đã bị khởi tố hình sự mà các cơ quan tiến hành tố tụng của Việt Nam hoặc của nước ngoài đang tiến hành điều tra, truy tố, xét xử hoặc có tiền án về các tội xâm phạm an ninh quốc gia hoặc được cơ quan có thẩm quyền xác định là có hoạt động xâm phạm an ninh quốc gia hoặc các tội khác do lỗi cố ý, chưa được xóa án tích; đang trong thời gian được tạm hoãn chấp hành hình phạt tù; đang bị quản chế, cấm cư trú, cấm đảm nhiệm chức vụ, cấm kinh doanh ngành, nghề kinh doanh có điều kiện về an ninh, trật tự theo quyết định của Tòa án hoặc đang bị áp dụng biện pháp giáo dục tại xã, phường, đặc khu; đang được tạm hoãn, tạm đình chỉ chấp hành quyết định đưa vào cơ sở giáo dục bắt buộc hoặc đưa vào cơ sở cai nghiện bắt buộc.
 
 Người Việt Nam định cư ở nước ngoài mang hộ chiếu nước ngoài và người nước ngoài chưa được cơ quan có thẩm quyền của Việt Nam cấp phép cư trú, lao động tại Việt Nam;
 
 b) Tổ chức, doanh nghiệp phải có nhân sự chịu trách nhiệm kỹ thuật phù hợp với loại hình sản phẩm, dịch vụ kinh doanh. Nhân sự này phải có bằng đại học trở lên hoặc có chứng chỉ chuyên ngành an ninh mạng, an toàn thông tin, công nghệ thông tin, điện tử viễn thông.
 
-3. Điều kiện về kỹ thuật: Có hệ thống trang thiết bị, cơ sở vật chất và công nghệ phù hợp với hoạt động đầu tư, kinh doanh và loại hình sản phẩm, dịch vụ an ninh mạng đăng ký kinh doanh.
+3. Điều kiện về kỹ thuật: Có hệ thống trang thiết bị, cơ sở vật chất và công nghệ phù hợp với hoạt động đầu tư, kinh doanh và loại hình sản phẩm, dịch vụ an ninh mạng đăng ký kinh doanh.
 
 #### Điều 7. Điều kiện về sản xuất, mua, bán, trao đổi, nhập khẩu, xuất khẩu sản phẩm an ninh mạng
 
@@ -192,7 +192,7 @@ b) Bản khai lý lịch kèm theo các giấy tờ cá nhân của người đ�
 
 c) Văn bằng, chứng chỉ hoặc tài liệu có giá trị tương đương theo quy định pháp luật về giáo dục, đào tạo chứng minh đáp ứng điều kiện về nhân sự;
 
-d) Tài liệu thuyết minh hệ thống trang thiết bị, cơ sở vật chất và công nghệ phù hợp với hoạt động và sản phẩm, dịch vụ đăng ký kinh doanh;
+d) Tài liệu thuyết minh hệ thống trang thiết bị, cơ sở vật chất và công nghệ phù hợp với hoạt động và sản phẩm, dịch vụ đăng ký kinh doanh;
 
 đ) Phương án kỹ thuật, phương án kinh doanh theo Mẫu số 07, Mẫu số 08 tại Phụ lục I ban hành kèm theo Nghị định này;
 
@@ -324,19 +324,19 @@ c) Tài liệu chứng minh mục đích, đối tượng nhập khẩu gồm h�
 
 #### Điều 14. Tạm đình chỉ, thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng
 
-1. Các trường hợp thu hồi không có thời hạn:
+1. Các trường hợp thu hồi không có thời hạn:
 
-a) Giả mạo hồ sơ hoặc cung cấp thông tin trong tài liệu không đúng thực tế để đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng; Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng được cấp không đúng thẩm quyền quy định tại Nghị định này;
+a) Giả mạo hồ sơ hoặc cung cấp thông tin trong tài liệu không đúng thực tế để đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng; Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng được cấp không đúng thẩm quyền quy định tại Nghị định này;
 
 b) Không đáp ứng điều kiện kinh doanh quy định tại các Điều 6, Điều 7 và Điều 8 Nghị định này, đã được cơ quan có thẩm quyền kiểm tra phát hiện, yêu cầu khắc phục mà vẫn không khắc phục trong thời hạn 40 ngày kể từ ngày nhận được yêu cầu;
 
-c) Sau 06 tháng kể từ ngày được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng mà tổ chức, doanh nghiệp không hoạt động;
+c) Sau 06 tháng kể từ ngày được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng mà tổ chức, doanh nghiệp không hoạt động;
 
 d) Tổ chức, doanh nghiệp bị đình chỉ hoạt động hoặc bị giải thể, phá sản theo quy định của pháp luật hoặc bị cơ quan có thẩm quyền thu hồi các văn bản đăng ký thành lập; kiến nghị thu hồi Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng;
 
 đ) Tổ chức, doanh nghiệp cho mượn, cho thuê, mua, bán Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng.
 
-2. Các trường hợp tạm đình chỉ sử dụng giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng có thời hạn từ 03 tháng đến 06 tháng:
+2. Các trường hợp tạm đình chỉ sử dụng giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng có thời hạn từ 03 tháng đến 06 tháng:
 
 a) Không làm thủ tục cấp đổi Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng trong trường hợp tổ chức, doanh nghiệp thay đổi tên tổ chức, doanh nghiệp hoặc thay đổi người đại diện theo pháp luật;
 
@@ -346,23 +346,23 @@ c) Không ngừng hoặc tạm ngừng cung cấp sản phẩm, dịch vụ an n
 
 d) Không báo cáo Bộ Công an về tình hình kinh doanh, xuất khẩu, nhập khẩu sản phẩm, dịch vụ an ninh mạng theo quy định;
 
-đ) Vi phạm quy định về kinh doanh sản phẩm, dịch vụ an ninh mạng đã bị xử phạt vi phạm hành chính từ 02 lần trở lên trong thời gian 12 tháng.
+đ) Vi phạm quy định về kinh doanh sản phẩm, dịch vụ an ninh mạng đã bị xử phạt vi phạm hành chính từ 02 lần trở lên trong thời gian 12 tháng.
 
-3. Trong quá trình kiểm tra, nếu phát hiện tổ chức, doanh nghiệp thuộc một trong các trường hợp thu hồi, tạm đình chỉ Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng thuộc khoản 1, khoản 2 Điều này thì cơ quan thực hiện việc kiểm tra, lập biên bản, gửi về Bộ Công an. Trong thời gian 15 ngày làm việc kể từ ngày nhận được biên bản, Bộ Công an xem xét, quyết định việc thu hồi, tạm đình chỉ Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng. Quyết định thu hồi, tạm đình chỉ được gửi cho cơ quan đăng ký kinh doanh, cơ quan hải quan.
+3. Trong quá trình kiểm tra, nếu phát hiện tổ chức, doanh nghiệp thuộc một trong các trường hợp thu hồi, tạm đình chỉ Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng thuộc khoản 1, khoản 2 Điều này thì cơ quan thực hiện việc kiểm tra, lập biên bản, gửi về Bộ Công an. Trong thời gian 15 ngày làm việc kể từ ngày nhận được biên bản, Bộ Công an xem xét, quyết định việc thu hồi, tạm đình chỉ Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng. Quyết định thu hồi, tạm đình chỉ được gửi cho cơ quan đăng ký kinh doanh, cơ quan hải quan.
 
 4. Trong trường hợp thu hồi, tạm đình chỉ Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng thì Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng không có hiệu lực.
 
 #### Điều 15. Thu hồi Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng
 
-1. Tổ chức, doanh nghiệp bị thu hồi Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng nếu thuộc một trong các trường hợp sau đây:
+1. Tổ chức, doanh nghiệp bị thu hồi Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng nếu thuộc một trong các trường hợp sau đây:
 
-a) Giả mạo hồ sơ đề nghị cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng hoặc sửa chữa, tẩy xóa làm thay đổi nội dung giấy phép;
+a) Giả mạo hồ sơ đề nghị cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng hoặc sửa chữa, tẩy xóa làm thay đổi nội dung giấy phép;
 
 b) Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng được cấp không đúng thẩm quyền, hồ sơ, thủ tục theo quy định tại Nghị định này;
 
-c) Tổ chức, doanh nghiệp nhập khẩu bị thu hồi, tạm đình chỉ giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký đầu tư hoặc chấm dứt hoạt động hoặc không còn được ủy quyền của chủ sở hữu hoặc nhà sản xuất sản phẩm an ninh mạng mà chưa được chuyển quyền nhập khẩu cho tổ chức thay thế hoặc bị giải thể, phá sản theo quy định của pháp luật;
+c) Tổ chức, doanh nghiệp nhập khẩu bị thu hồi, tạm đình chỉ giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký đầu tư hoặc chấm dứt hoạt động hoặc không còn được ủy quyền của chủ sở hữu hoặc nhà sản xuất sản phẩm an ninh mạng mà chưa được chuyển quyền nhập khẩu cho tổ chức thay thế hoặc bị giải thể, phá sản theo quy định của pháp luật;
 
-d) Sản phẩm an ninh mạng nhập khẩu hết thời hạn lưu hành theo thông báo của nhà sản xuất, chủ sở hữu hoặc cơ quan, tổ chức có thẩm quyền hoặc đang lưu hành trên thị trường có lỗi gây hệ quả cho người sử dụng mà không thể khắc phục lỗi.
+d) Sản phẩm an ninh mạng nhập khẩu hết thời hạn lưu hành theo thông báo của nhà sản xuất, chủ sở hữu hoặc cơ quan, tổ chức có thẩm quyền hoặc đang lưu hành trên thị trường có lỗi gây hệ quả cho người sử dụng mà không thể khắc phục lỗi.
 
 2. Trong quá trình kiểm tra, nếu phát hiện tổ chức, doanh nghiệp thuộc một trong các trường hợp thu hồi Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng thuộc khoản 1 Điều này thì cơ quan thực hiện việc kiểm tra, lập biên bản, gửi về cơ quan Công an có thẩm quyền cấp phép. Trong thời gian 05 ngày làm việc kể từ ngày nhận được biên bản, Bộ Công an xem xét, quyết định việc thu hồi Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng. Quyết định thu hồi được gửi cho cơ quan hải quan. Sau khi có quyết định thu hồi Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng, tổ chức, doanh nghiệp có trách nhiệm thu hồi sản phẩm an ninh mạng được ghi trong quyết định thu hồi và không được tiếp tục nhập khẩu, xuất khẩu sản phẩm đó.
 
@@ -390,9 +390,9 @@ Bộ trưởng Bộ Công an chịu trách nhiệm trước Chính phủ thống
 
 1. Chủ trì, phối hợp với các bộ, ngành thực hiện quản lý hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng theo quy định tại Nghị định này và các văn bản pháp luật có liên quan; phân cấp, phân quyền quản lý hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng theo quy định của pháp luật.
 
-2. Công bố tiêu chuẩn, quy định quy chuẩn kỹ thuật trong lĩnh vực an ninh mạng; xây dựng hệ thống cơ sở dữ liệu thông tin điện tử phục vụ công tác quản lý và thực hiện thủ tục hành chính liên quan đến hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng.
+2. Công bố tiêu chuẩn, quy định quy chuẩn kỹ thuật trong lĩnh vực an ninh mạng; xây dựng hệ thống cơ sở dữ liệu thông tin điện tử phục vụ công tác quản lý và thực hiện thủ tục hành chính liên quan đến hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng.
 
-3. Chủ trì, phối hợp với các bộ, ngành thực hiện và hướng dẫn công tác kiểm tra theo quy định tại Điều 19 của Nghị định này, giải quyết khiếu nại, tố cáo, phòng ngừa, phát hiện, đấu tranh, xử lý vi phạm về kinh doanh sản phẩm, dịch vụ an ninh mạng theo quy định của pháp luật.
+3. Chủ trì, phối hợp với các bộ, ngành thực hiện và hướng dẫn công tác kiểm tra theo quy định tại Điều 19 của Nghị định này, giải quyết khiếu nại, tố cáo, phòng ngừa, phát hiện, đấu tranh, xử lý vi phạm về kinh doanh sản phẩm, dịch vụ an ninh mạng theo quy định của pháp luật.
 
 #### Điều 18. Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố
 
@@ -400,25 +400,25 @@ Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, các bộ
 
 #### Điều 19. Kiểm tra
 
-1. Cơ quan có thẩm quyền thực hiện kiểm tra toàn diện việc chấp hành các quy định về kinh doanh sản phẩm, dịch vụ an ninh mạng không được quá 01 lần trong năm, bao gồm cả kiểm tra liên ngành, trừ trường hợp có dấu hiệu vi phạm rõ ràng.
+1. Cơ quan có thẩm quyền thực hiện kiểm tra toàn diện việc chấp hành các quy định về kinh doanh sản phẩm, dịch vụ an ninh mạng không được quá 01 lần trong năm, bao gồm cả kiểm tra liên ngành, trừ trường hợp có dấu hiệu vi phạm rõ ràng.
 
 Việc kiểm tra đột xuất được thực hiện khi phát hiện cơ sở kinh doanh có vi phạm hoặc có dấu hiệu vi phạm pháp luật liên quan đến kinh doanh sản phẩm, dịch vụ an ninh mạng; có đơn khiếu nại, tố cáo của tổ chức hoặc cá nhân về vi phạm pháp luật liên quan đến kinh doanh sản phẩm, dịch vụ an ninh mạng trong tổ chức, doanh nghiệp; phục vụ tăng cường công tác đảm bảo an ninh, trật tự theo văn bản chỉ đạo của cơ quan có thẩm quyền.
 
-2. Nội dung kiểm tra:
+2. Nội dung kiểm tra:
 
-a) Kiểm tra các giấy tờ trong hồ sơ pháp lý; nội dung kinh doanh ghi trong Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng, Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng cho tổ chức, doanh nghiệp với thực tế hoạt động tại tổ chức, doanh nghiệp;
+a) Kiểm tra các giấy tờ trong hồ sơ pháp lý; nội dung kinh doanh ghi trong Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng, Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng cho tổ chức, doanh nghiệp với thực tế hoạt động tại tổ chức, doanh nghiệp;
 
-b) Kiểm tra việc chấp hành các quy định tại Nghị định này và các quy định tại văn bản quy phạm pháp luật khác có liên quan;
+b) Kiểm tra việc chấp hành các quy định tại Nghị định này và các quy định tại văn bản quy phạm pháp luật khác có liên quan;
 
-c) Kết thúc kiểm tra phải lập biên bản (theo mẫu quy định thống nhất của Bộ trưởng Bộ Công an) ghi rõ kết quả và tồn tại hoặc vi phạm (nếu có).
+c) Kết thúc kiểm tra phải lập biên bản (theo mẫu quy định thống nhất của Bộ trưởng Bộ Công an) ghi rõ kết quả và tồn tại hoặc vi phạm (nếu có).
 
 3. Thẩm quyền kiểm tra:
 
-a) Bộ Công an có thẩm quyền kiểm tra định kỳ hàng năm hoặc đột xuất theo quy định của khoản 1 Điều này;
+a) Bộ Công an có thẩm quyền kiểm tra định kỳ hàng năm hoặc đột xuất theo quy định của khoản 1 Điều này;
 
-b) Ủy ban nhân dân tỉnh, thành phố trở lên được tiến hành kiểm tra tổ chức, doanh nghiệp trên địa bàn quản lý khi phát hiện tổ chức, doanh nghiệp có vi phạm hoặc có dấu hiệu vi phạm pháp luật liên quan đến kinh doanh sản phẩm, dịch vụ an ninh mạng; có đơn khiếu nại, tố cáo của tổ chức hoặc cá nhân liên quan đến an ninh, trật tự tại tổ chức, doanh nghiệp trên địa bàn do mình quản lý. Sau khi kiểm tra phải có văn bản thông báo kết quả kiểm tra và xử lý vi phạm cho Bộ Công an.
+b) Ủy ban nhân dân tỉnh, thành phố trở lên được tiến hành kiểm tra tổ chức, doanh nghiệp trên địa bàn quản lý khi phát hiện tổ chức, doanh nghiệp có vi phạm hoặc có dấu hiệu vi phạm pháp luật liên quan đến kinh doanh sản phẩm, dịch vụ an ninh mạng; có đơn khiếu nại, tố cáo của tổ chức hoặc cá nhân liên quan đến an ninh, trật tự tại tổ chức, doanh nghiệp trên địa bàn do mình quản lý. Sau khi kiểm tra phải có văn bản thông báo kết quả kiểm tra và xử lý vi phạm cho Bộ Công an.
 
-4. Các hành vi vi phạm được phát hiện trong quá trình kiểm tra phải được xử lý theo quy định của pháp luật.
+4. Các hành vi vi phạm được phát hiện trong quá trình kiểm tra phải được xử lý theo quy định của pháp luật.
 
 ## Chương IV
 
@@ -504,7 +504,7 @@ Mẫu số 12
 
 Thông báo từ chối cấp/cấp đổi/cấp lại/gia hạn giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng
 
-#### Phụ lục I - Mẫu số 01
+### Phụ lục I - Mẫu số 01
 
 .........(1)……
 
@@ -512,7 +512,7 @@ Thông báo từ chối cấp/cấp đổi/cấp lại/gia hạn giấy phép ki
 
 __________
 
-Số:         /GPKD
+Số:         /GPKD
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
@@ -584,7 +584,7 @@ c) ………………………..…………… (5);
 
 THỦ TRƯỞNG CƠ QUAN CÓ THẨM QUYỀN
 
-(Ký và ghi rõ họ tên)
+(Ký và ghi rõ họ tên)
 
 Chú thích:
 
@@ -600,7 +600,7 @@ Chú thích:
 
 (6) Sử dụng trong trường hợp cấp đổi hoặc cấp lại Giấy phép.
 
-#### Phụ lục I - Mẫu số 02
+### Phụ lục I - Mẫu số 02
 
 .........(1)……
 
@@ -616,7 +616,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 _____________________________
 
-……, ngày …… tháng …… năm ……
+……, ngày …… tháng …… năm ……
 
 GIẤY PHÉP XUẤT KHẨU, NHẬP KHẨU
 
@@ -674,7 +674,7 @@ THỦ TRƯỞNG CƠ QUAN
 
 CÓ THẨM QUYỀN
 
-(Ký và ghi rõ họ tên)
+(Ký và ghi rõ họ tên)
 
 Chú thích:
 
@@ -690,7 +690,7 @@ Chú thích:
 
 (6) Thủ trưởng đơn vị trình cấp Giấy phép.
 
-#### Phụ lục I - Mẫu số 03
+### Phụ lục I - Mẫu số 03
 
 ……(2)………
 
@@ -782,7 +782,7 @@ Chú thích:
 
 (3) Tên cơ quan có thẩm quyền.
 
-#### Phụ lục I - Mẫu số 04
+### Phụ lục I - Mẫu số 04
 
 ……(2)……
 
@@ -882,7 +882,7 @@ Chú thích:
 
 (3) Tên cơ quan có thẩm quyền.
 
-#### Phụ lục I - Mẫu số 05
+### Phụ lục I - Mẫu số 05
 
 Ảnh
 
@@ -974,7 +974,7 @@ Tôi cam đoan những nội dung trong Bản khai lý lịch là đúng. Nếu 
 
 (Người khai ký, ghi rõ họ tên)
 
-Phụ lục I - Mẫu số 06
+### Phụ lục I - Mẫu số 06
 
 (TÊN TỔ CHỨC,
 
@@ -992,13 +992,13 @@ _____________________________________
 
 BẢN KÊ KHAI DANH SÁCH NHÂN SỰ
 
-Tổ chức, doanh nghiệp:  ……………………………………………………..
+Tổ chức, doanh nghiệp:  ……………………………………………………..
 
 Họ và tên người đại diện theo pháp luật:…………………………………….
 
-Số định danh cá nhân của người đại diện theo pháp luật: ….…………………
+Số định danh cá nhân của người đại diện theo pháp luật: ….…………………
 
-Địa điểm kinh doanh: ………………Điện thoại liên hệ:……………………
+Địa điểm kinh doanh: ………………Điện thoại liên hệ:……………………
 
 STT
 
@@ -1024,7 +1024,7 @@ Nam
 
 Nữ
 
-………., ngày … tháng … năm…
+………., ngày … tháng … năm…
 
 NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT CỦA
 
@@ -1032,9 +1032,9 @@ TỔ CHỨC, DOANH NGHIỆP CAM ĐOAN
 
 KHAI ĐÚNG SỰ THẬT
 
-(Ký ghi rõ họ tên, đóng dấu giáp lai)
+(Ký ghi rõ họ tên, đóng dấu giáp lai)
 
-#### Phụ lục I - Mẫu số 07
+### Phụ lục I - Mẫu số 07
 
 (TÊN TỔ CHỨC,
 
@@ -1070,7 +1070,7 @@ Mô tả, chứng minh sự đáp ứng với các quy chuẩn kỹ thuật và 
 
 Phụ lục các tài liệu đặc tả thiết bị kỹ thuật hệ thống, các chứng nhận, chứng chỉ tuân thủ tiêu chuẩn đã được cấp.
 
-#### Phụ lục I - Mẫu số 08
+### Phụ lục I - Mẫu số 08
 
 (TÊN TỔ CHỨC,
 
@@ -1122,7 +1122,7 @@ Phần 3. Phương án bảo đảm chất lượng sản phẩm, dịch vụ
 
 5. Thủ tục giải quyết khiếu nại về chất lượng dịch vụ của khách hàng.
 
-#### Phụ lục I - Mẫu số 09
+### Phụ lục I - Mẫu số 09
 
 (TÊN DOANH NGHIỆP)
 
@@ -1180,7 +1180,7 @@ NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT CỦA DOANH NGHIỆP
 
 (Ký, ghi rõ họ tên, chức danh và đóng dấu)
 
-#### Phụ lục I - Mẫu số 10
+### Phụ lục I - Mẫu số 10
 
 .........(1)……
 
@@ -1196,23 +1196,23 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 _____________________________________
 
-……, ngày …… tháng …… năm ……
+……, ngày …… tháng …… năm ……
 
 PHIẾU TIẾP NHẬN HỒ SƠ VÀ HẸN TRẢ KẾT QUẢ
 
 Mã hồ sơ:......
 
-Bộ phận Tiếp nhận và Trả kết quả (3): ……………………………………
+Bộ phận Tiếp nhận và Trả kết quả (3): ……………………………………
 
 Tiếp nhận hồ sơ của (4):……………………………………………………
 
 ………………………………………………………………………………
 
-Địa chỉ: ……………………………………………………………………..
+Địa chỉ: ……………………………………………………………………..
 
-Số điện thoại: …………………………….Email: …………………………
+Số điện thoại: …………………………….Email: …………………………
 
-Nội dung yêu cầu giải quyết: ……………………………………………….
+Nội dung yêu cầu giải quyết: ……………………………………………….
 
 Thành phần hồ sơ nộp gồm:
 
@@ -1228,11 +1228,11 @@ Số lượng hồ sơ:…………….(bộ)
 
 Thời gian giải quyết hồ sơ theo quy định là: ...............ngày
 
-Thời gian nhận hồ sơ: ... giờ... phút, ngày … tháng ... năm ....
+Thời gian nhận hồ sơ: ... giờ... phút, ngày … tháng ... năm ....
 
 Thời gian trả kết quả giải quyết hồ sơ: ... giờ ... , phút, ngày .. tháng .. năm ..
 
-Đăng ký nhận kết quả tại: …………………………………………………...
+Đăng ký nhận kết quả tại: …………………………………………………...
 
 Vào Sổ theo dõi hồ sơ, Quyển số:………………………Số thứ tự………….
 
@@ -1246,9 +1246,9 @@ Chữ ký số của Tổ chức
 
 NGƯỜI TIẾP NHẬN HỒ SƠ
 
-(Ký và ghi rõ họ tên)
+(Ký và ghi rõ họ tên)
 
-Chữ ký số của Người tiếp nhận hồ sơ
+Chữ ký số của Người tiếp nhận hồ sơ
 
 (nếu là biểu mẫu điện tử)
 
@@ -1262,7 +1262,7 @@ Chú thích:
 
 (4) Tên của người nộp hồ sơ và ghi rõ là nộp hồ sơ cho tổ chức, doanh nghiệp nào.
 
-#### Phụ lục I - Mẫu số 11
+### Phụ lục I - Mẫu số 11
 
 .........(1)........
 
@@ -1278,7 +1278,7 @@ _____________________________________
 
 Số: /PB
 
-……, ngày …… tháng …… năm ……
+……, ngày …… tháng …… năm ……
 
 PHIẾU TỪ CHỐI TIẾP NHẬN GIẢI QUYẾT HỒ SƠ
 
@@ -1286,17 +1286,17 @@ HOẶC BỔ SUNG HỒ SƠ
 
 Mã hồ sơ:......
 
-Bộ phận Tiếp nhận và Trả kết quả (1): …………………………………….
+Bộ phận Tiếp nhận và Trả kết quả (1): …………………………………….
 
 Tiếp nhận hồ sơ của (2):……………………………………………………
 
 ……………………………………………………………………………………
 
-Địa chỉ: ……………………………………………………………………..
+Địa chỉ: ……………………………………………………………………..
 
-Số điện thoại: …………………………….Email: …………………………
+Số điện thoại: …………………………….Email: …………………………
 
-Nội dung yêu cầu giải quyết: ……………………………………………….
+Nội dung yêu cầu giải quyết: ……………………………………………….
 
 Qua xem xét, Bộ phận Tiếp nhận và Trả kết quả thông báo không tiếp nhận, giải quyết hồ sơ này với lý do cụ thể như sau:
 
@@ -1314,7 +1314,7 @@ NGƯỜI NỘP HỒ SƠ
 
 NGƯỜI TIẾP NHẬN HỒ SƠ
 
-(Ký và ghi rõ họ tên)
+(Ký và ghi rõ họ tên)
 
 Chú thích:
 
@@ -1322,7 +1322,7 @@ Chú thích:
 
 (2) Tên của người nộp hồ sơ và ghi rõ là nộp hồ sơ cho tổ chức, doanh nghiệp nào.
 
-#### Phụ lục I - Mẫu số 12
+### Phụ lục I - Mẫu số 12
 
 .........(1)........
 
@@ -1338,7 +1338,7 @@ ____________________________________
 
 Số: /TB
 
-……, ngày …… tháng …… năm ……
+……, ngày …… tháng …… năm ……
 
 THÔNG BÁO
 
@@ -1360,7 +1360,7 @@ THỦ TRƯỞNG CƠ QUAN
 
 CÓ THẨM QUYỀN
 
-(Ký và ghi rõ họ tên)
+(Ký và ghi rõ họ tên)
 
 Chú thích:
 
@@ -1372,7 +1372,7 @@ Chú thích:
 
 (4) Tên doanh nghiệp đề nghị cấp/cấp đổi/ cấp lại/gia hạn Giấy phép.
 
-#### Phụ lục II
+### Phụ lục II
 
 DANH MỤC SẢN PHẨM AN NINH MẠNG XUẤT KHẨU, NHẬP KHẨU THEO GIẤY PHÉP
 

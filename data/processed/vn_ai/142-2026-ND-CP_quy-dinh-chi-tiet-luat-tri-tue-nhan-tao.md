@@ -1502,7 +1502,7 @@ Mẫu AI09b
 
 Giấy xác nhận tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo cá nhân
 
-Mẫu AI01a: Báo cáo sự cố nghiêm trọng dành cho tổ chức
+### Mẫu AI01a: Báo cáo sự cố nghiêm trọng dành cho tổ chức
 
 [TÊN TỔ CHỨC/
 
@@ -1600,7 +1600,7 @@ LÃNH ĐẠO TỔ CHỨC, DOANH NGHIỆP
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI01b: Báo cáo sự cố nghiêm trọng dành cho cá nhân
+### Mẫu AI01b: Báo cáo sự cố nghiêm trọng dành cho cá nhân
 
 1922557451245
 
@@ -1686,7 +1686,7 @@ NGƯỜI BÁO CÁO
 
 (Ký, ghi rõ họ tên và đóng dấu nếu có)
 
-Mẫu AI02: Báo cáo đánh giá tác động khi sử dụng hệ thống trí tuệ nhân tạo trong cơ quan nhà nước
+### Mẫu AI02: Báo cáo đánh giá tác động khi sử dụng hệ thống trí tuệ nhân tạo trong cơ quan nhà nước
 
 [TÊN CƠ QUAN/
 
@@ -1802,7 +1802,7 @@ LÃNH ĐẠO CƠ QUAN, ĐƠN VỊ
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI03a: Đơn đề nghị tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
+### Mẫu AI03a: Đơn đề nghị tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
 
 [TÊN /TỔ CHỨC]
 
@@ -1884,7 +1884,7 @@ Nơi nhận:
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI03b: Đơn đề nghị tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
+### Mẫu AI03b: Đơn đề nghị tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
 
 1903696440256
 
@@ -1950,7 +1950,7 @@ NGƯỜI ĐỀ NGHỊ
 
 (Ký, ghi rõ họ tên và đóng dấu nếu có)
 
-Mẫu AI03c: Đơn đề nghị gia hạn thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
+### Mẫu AI03c: Đơn đề nghị gia hạn thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
 
 [TÊN /TỔ CHỨC]
 
@@ -2032,7 +2032,7 @@ Nơi nhận:
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI03d: Đơn đề nghị gia hạn thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
+### Mẫu AI03d: Đơn đề nghị gia hạn thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
 
 1915727440256
 
@@ -2098,7 +2098,7 @@ NGƯỜI ĐỀ NGHỊ
 
 (Ký, ghi rõ họ tên và đóng dấu nếu có)
 
-Mẫu AI04: Giấy xác nhận hoàn thành thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo
+### Mẫu AI04: Giấy xác nhận hoàn thành thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo
 
 [TÊN CƠ QUAN/TỔ CHỨC]
 
@@ -2186,7 +2186,7 @@ THỦ TRƯỞNG CƠ QUAN CẤP XÁC NHẬN
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI05a: Báo cáo định kỳ về tình hình thử nghiệm hệ thống trí tuệ nhân tạo dành cho tổ chức
+### Mẫu AI05a: Báo cáo định kỳ về tình hình thử nghiệm hệ thống trí tuệ nhân tạo dành cho tổ chức
 
 [TÊN TỔ CHỨC/DOANH NGHIỆP]
 
@@ -2278,7 +2278,7 @@ LÃNH ĐẠO TỔ CHỨC, DOANH NGHIỆP
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI05b: Báo cáo định kỳ về tình hình thử nghiệm hệ thống trí tuệ nhân tạo dành cho cá nhân
+### Mẫu AI05b: Báo cáo định kỳ về tình hình thử nghiệm hệ thống trí tuệ nhân tạo dành cho cá nhân
 
 1879633471003
 
@@ -2358,7 +2358,7 @@ NGƯỜI BÁO CÁO
 
 (Ký, ghi rõ họ tên và đóng dấu nếu có)
 
-Mẫu AI06a: Báo cáo sự cố nghiêm trọng trong thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
+### Mẫu AI06a: Báo cáo sự cố nghiêm trọng trong thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
 
 [TÊN TỔ CHỨC/DOANH NGHIỆP]
 
@@ -2480,7 +2480,7 @@ LÃNH ĐẠO TỔ CHỨC, DOANH NGHIỆP
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI06b: Báo cáo sự cố nghiêm trọng trong thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
+### Mẫu AI06b: Báo cáo sự cố nghiêm trọng trong thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
 
 1891664475013
 
@@ -2590,7 +2590,7 @@ NGƯỜI BÁO CÁO
 
 (Ký, ghi rõ họ tên và đóng dấu nếu có)
 
-Mẫu AI07a: Báo cáo vượt giới hạn thử nghiệm dành cho tổ chức
+### Mẫu AI07a: Báo cáo vượt giới hạn thử nghiệm dành cho tổ chức
 
 [TÊN TỔ CHỨC/DOANH NGHIỆP]
 
@@ -2692,7 +2692,7 @@ LÃNH ĐẠO TỔ CHỨC, DOANH NGHIỆP
 
 (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
 
-Mẫu AI07b: Báo cáo vượt giới hạn thử nghiệm dành cho cá nhân
+### Mẫu AI07b: Báo cáo vượt giới hạn thử nghiệm dành cho cá nhân
 
 1879632474947
 
@@ -2782,7 +2782,7 @@ NGƯỜI BÁO CÁO
 
 (Ký, ghi rõ họ tên và đóng dấu nếu có)
 
-Mẫu AI08a:
+### Mẫu AI08a:
 
 Báo cáo tổng kết kết quả thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
 
@@ -2956,7 +2956,7 @@ III. KẾT QUẢ THỰC HIỆN MỤC TIÊU THỬ NGHIỆM
 
 STT
 
-### Mục tiêu thử nghiệm
+Mục tiêu thử nghiệm
 
 Chỉ số/tiêu chí đánh giá
 
@@ -3190,7 +3190,7 @@ Cơ chế hỗ trợ và điều chỉnh nghĩa vụ tuân thủ trong phạm vi
 
 2
 
-## Chương trình hỗ trợ phát triển trí tuệ nhân tạo
+Chương trình hỗ trợ phát triển trí tuệ nhân tạo
 
 □ Có
 
@@ -3282,7 +3282,7 @@ Nơi nhận:
 
 ………………………………
 
-Mẫu AI08b:
+### Mẫu AI08b:
 
 Báo cáo tổng kết kết quả thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
 
@@ -3450,7 +3450,7 @@ III. KẾT QUẢ THỰC HIỆN MỤC TIÊU THỬ NGHIỆM
 
 STT
 
-### Mục tiêu thử nghiệm
+Mục tiêu thử nghiệm
 
 Chỉ số/tiêu chí đánh giá
 
@@ -3684,7 +3684,7 @@ Cơ chế hỗ trợ và điều chỉnh nghĩa vụ tuân thủ trong phạm vi
 
 2
 
-## Chương trình hỗ trợ phát triển trí tuệ nhân tạo
+Chương trình hỗ trợ phát triển trí tuệ nhân tạo
 
 □ Có
 
@@ -3776,7 +3776,7 @@ CÁ NHÂN BÁO CÁO
 
 ………………………………
 
-Mẫu AI09a:
+### Mẫu AI09a:
 
 Giấy xác nhận tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho tổ chức
 
@@ -3908,7 +3908,7 @@ THỦ TRƯỞNG CƠ QUAN CẤP
 
 [Họ và tên]
 
-Mẫu AI09b:
+### Mẫu AI09b:
 
 Giấy xác nhận tham gia thử nghiệm có kiểm soát hệ thống trí tuệ nhân tạo dành cho cá nhân
 

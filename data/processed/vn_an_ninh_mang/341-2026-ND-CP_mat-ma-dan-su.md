@@ -305,7 +305,7 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban 
 
 ---
 
-## Phụ lục I
+### Phụ lục I
 ### DANH MỤC SẢN PHẨM, DỊCH VỤ MẬT MÃ DÂN SỰ
 *(Kèm theo Nghị định số 341/2026/NĐ-CP ngày 01 tháng 9 năm 2026 của Chính phủ)*
 
@@ -352,7 +352,7 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban 
 
 ---
 
-## Phụ lục II
+### Phụ lục II
 ### DANH MỤC SẢN PHẨM MẬT MÃ DÂN SỰ XUẤT KHẨU, NHẬP KHẨU THEO GIẤY PHÉP
 *(Kèm theo Nghị định số 341/2026/NĐ-CP ngày 01 tháng 9 năm 2026 của Chính phủ)*
 
@@ -368,7 +368,7 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban 
 
 ---
 
-## Phụ lục III
+### Phụ lục III
 ### MẪU HỒ SƠ, THỦ TỤC CẤP GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ MẬT MÃ DÂN SỰ, GIẤY PHÉP XUẤT KHẨU, NHẬP KHẨU SẢN PHẨM MẬT MÃ DÂN SỰ
 *(Kèm theo Nghị định số 341/2026/NĐ-CP ngày 01 tháng 9 năm 2026 của Chính phủ)*
 

@@ -669,7 +669,7 @@ PHÓ THỦ TƯỚNG
 
 Hồ Quốc Dũng
 
-## Phụ lục I
+### Phụ lục I
 ### HỆ THỐNG MỤC TIÊU THUỘC CHIẾN LƯỢC QUỐC GIA VỀ TRÍ TUỆ NHÂN TẠO ĐẾN NĂM 2030, TẦM NHÌN ĐẾN NĂM 2045
 *(Kèm theo Quyết định số 1671/QĐ-TTg ngày 28 tháng 8 năm 2026 của Thủ tướng Chính phủ)*
 
@@ -720,7 +720,7 @@ Hồ Quốc Dũng
 | **B.** | **MỤC TIÊU ĐẾN NĂM 2045** | | |
 | 32. | Việt Nam thuộc nhóm 10 nước dẫn đầu châu Á về năng lực nghiên cứu, phát triển AI và chuyển đổi AI quốc gia | Bộ Khoa học và Công nghệ | Các bộ, ngành, địa phương |
 
-## Phụ lục II
+### Phụ lục II
 ### DANH MỤC CÁC NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN CHIẾN LƯỢC QUỐC GIA VỀ TRÍ TUỆ NHÂN TẠO ĐẾN NĂM 2030, TẦM NHÌN ĐẾN NĂM 2045
 *(Kèm theo Quyết định số 1671/QĐ-TTg ngày 28 tháng 8 năm 2026 của Thủ tướng Chính phủ)*
 

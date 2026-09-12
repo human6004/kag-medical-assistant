@@ -20,8 +20,8 @@ from pathlib import Path
 
 from metadata_to_graph import ROOT, load_metadata, node_name
 
-# reference_en khong duoc index nhung van phai dung dinh dang, phong khi nhap lai
-MD_DIRS = [ROOT / "data" / "processed", ROOT / "data" / "reference_en"]
+# Chi con corpus tieng Viet. Kho tieng Anh da xoa vi de tai chi lam luat VN.
+MD_DIRS = [ROOT / "data" / "processed"]
 SEP = " — "
 
 
