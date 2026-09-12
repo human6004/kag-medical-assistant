@@ -17,9 +17,15 @@ LegalDocument(VanBan): EntityType
             index: Text
         issuingBody(CoQuanBanHanh): Text
             index: Text
+        dateIssued(NgayBanHanh): Text
+            index: Text
         dateEffective(NgayCoHieuLuc): Text
             index: Text
+        dateExpired(NgayHetHieuLuc): Text
+            index: Text
         status(TrangThaiHieuLuc): Text
+            index: Text
+        sourceUrl(NguonTraCuu): Text
             index: Text
      relations:
         supersedes(ThayThe): LegalDocument

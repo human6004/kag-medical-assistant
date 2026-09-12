@@ -33,6 +33,29 @@ project:
   namespace: Legal
 #------------project configuration end----------------#
 
+#------------metadata injection configuration start----------------#
+# Nap 50 file data/metadata vao do thi duoi dang node LegalDocument + canh
+# thay the / sua doi / huong dan thi hanh. Scanner cua builder chi nhan .md
+# nen day la duong duy nhat de ngay hieu luc va chuoi thay the vao duoc graph.
+# Sinh file truoc bang: python kag/builder/metadata_to_graph.py
+external_graph_loader: &external_graph_loader
+  type: legal_external_graph # kag/builder/external_graph.py
+  node_file_path: data/graph/nodes.json
+  edge_file_path: data/graph/edges.json
+  match_config:
+    k: 1
+    threshold: 0.9
+
+metadata_inject_chain:
+  type: domain_kg_inject_chain # kag.builder.default_chain.DomainKnowledgeInjectChain
+  external_graph: *external_graph_loader
+  vectorizer:
+    type: batch_vectorizer # kag.builder.component.vectorizer.batch_vectorizer.BatchVectorizer
+    vectorize_model: *vectorize_model
+  writer:
+    type: kg_writer # kag.builder.component.writer.kg_writer.KGWriter
+#------------metadata injection configuration end----------------#
+
 #------------kag-builder configuration start----------------#
 kag_builder_pipeline:
   chain:
