@@ -1,4 +1,4 @@
-# Quyết định phê duyệt Chiến lược quốc gia về trí tuệ nhân tạo đến năm 2030, tầm nhìn đến năm 2045
+# Quyết định 1671/QĐ-TTg — Quyết định phê duyệt Chiến lược quốc gia về trí tuệ nhân tạo đến năm 2030, tầm nhìn đến năm 2045
 1671/QĐ-TTg — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/1671-QD-TTg_chien-luoc-quoc-gia-tri-tue-nhan-tao-2030-tam-nhin-2045.pdf
 

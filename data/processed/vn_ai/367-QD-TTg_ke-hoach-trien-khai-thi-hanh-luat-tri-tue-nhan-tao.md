@@ -1,4 +1,4 @@
-# Quyết định ban hành Kế hoạch triển khai thi hành Luật Trí tuệ nhân tạo
+# Quyết định 367/QĐ-TTg — Quyết định ban hành Kế hoạch triển khai thi hành Luật Trí tuệ nhân tạo
 367/QĐ-TTg — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/367-QD-TTg_ke-hoach-trien-khai-thi-hanh-luat-tri-tue-nhan-tao.pdf
 

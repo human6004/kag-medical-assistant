@@ -1,4 +1,4 @@
-# Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Bảo vệ dữ liệu cá nhân
+# Nghị định 356/2025/NĐ-CP — Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Bảo vệ dữ liệu cá nhân
 356/2025/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/356-2025-ND-CP_quy-dinh-chi-tiet-luat-bao-ve-du-lieu-ca-nhan.html
 

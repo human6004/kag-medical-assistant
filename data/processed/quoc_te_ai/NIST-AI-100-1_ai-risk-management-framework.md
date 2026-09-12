@@ -1,4 +1,4 @@
-# Artificial Intelligence Risk Management Framework (AI RMF 1.0)
+# NIST AI 100-1 — Artificial Intelligence Risk Management Framework (AI RMF 1.0)
 NIST AI 100-1 — còn hiệu lực
 Nguồn thô: data/raw/quoc_te_ai/NIST-AI-100-1_ai-risk-management-framework.pdf
 

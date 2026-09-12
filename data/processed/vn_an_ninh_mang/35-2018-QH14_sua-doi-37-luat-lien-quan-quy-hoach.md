@@ -1,4 +1,4 @@
-# Luật sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch
+# Luật 35/2018/QH14 — Luật sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch
 35/2018/QH14 — một phần hết hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/35-2018-QH14_sua-doi-37-luat-lien-quan-quy-hoach.html
 

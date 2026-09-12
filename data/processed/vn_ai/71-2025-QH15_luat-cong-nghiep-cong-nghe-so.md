@@ -1,4 +1,4 @@
-# Luật Công nghiệp công nghệ số
+# Luật 71/2025/QH15 — Luật Công nghiệp công nghệ số
 71/2025/QH15 — một phần hết hiệu lực
 Nguồn thô: data/raw/vn_ai/71-2025-QH15_luat-cong-nghiep-cong-nghe-so.html
 

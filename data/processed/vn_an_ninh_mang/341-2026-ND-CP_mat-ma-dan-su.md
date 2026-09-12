@@ -1,4 +1,4 @@
-# Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng về hoạt động mật mã dân sự
+# Nghị định 341/2026/NĐ-CP — Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng về hoạt động mật mã dân sự
 341/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/341-2026-ND-CP_mat-ma-dan-su.pdf
 

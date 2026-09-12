@@ -1,4 +1,4 @@
-# Nghị định về bảo vệ an ninh mạng đối với hệ thống thông tin
+# Nghị định 331/2026/NĐ-CP — Nghị định về bảo vệ an ninh mạng đối với hệ thống thông tin
 331/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/331-2026-ND-CP_bao-ve-an-ninh-mang-doi-voi-he-thong-thong-tin.docx
 

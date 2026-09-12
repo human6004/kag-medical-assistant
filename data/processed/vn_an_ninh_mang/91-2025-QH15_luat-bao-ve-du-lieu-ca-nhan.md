@@ -1,4 +1,4 @@
-# Luật Bảo vệ dữ liệu cá nhân
+# Luật 91/2025/QH15 — Luật Bảo vệ dữ liệu cá nhân
 91/2025/QH15 — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/91-2025-QH15_luat-bao-ve-du-lieu-ca-nhan.html
 

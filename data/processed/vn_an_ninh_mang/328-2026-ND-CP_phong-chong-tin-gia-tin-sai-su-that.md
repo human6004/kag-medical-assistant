@@ -1,4 +1,4 @@
-# Nghị định quy định về phòng, chống tin giả, tin sai sự thật
+# Nghị định 328/2026/NĐ-CP — Nghị định quy định về phòng, chống tin giả, tin sai sự thật
 328/2026/NĐ-CP — chưa có hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/328-2026-ND-CP_phong-chong-tin-gia-tin-sai-su-that.docx
 

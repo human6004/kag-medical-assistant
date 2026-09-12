@@ -1,4 +1,4 @@
-# Nghị định quy định chi tiết một số điều của Luật An ninh mạng
+# Nghị định 53/2022/NĐ-CP — Nghị định quy định chi tiết một số điều của Luật An ninh mạng
 53/2022/NĐ-CP — hết hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/53-2022-ND-CP_quy-dinh-chi-tiet-luat-an-ninh-mang.html
 

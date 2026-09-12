@@ -1,4 +1,4 @@
-# United Nations Convention against Cybercrime ("Hanoi Convention"), phụ lục Nghị quyết 79/243 của Đại hội đồng LHQ
+# A/RES/79/243 — United Nations Convention against Cybercrime ("Hanoi Convention"), phụ lục Nghị quyết 79/243 của Đại hội đồng LHQ
 A/RES/79/243 — chưa có hiệu lực
 Nguồn thô: data/raw/quoc_te_an_ninh_mang/A-RES-79-243_un-convention-against-cybercrime.pdf
 

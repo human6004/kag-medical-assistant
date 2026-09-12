@@ -1,4 +1,4 @@
-# Quyết định ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng Trí tuệ nhân tạo đến năm 2030
+# Quyết định 127/QĐ-TTg — Quyết định ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng Trí tuệ nhân tạo đến năm 2030
 127/QĐ-TTg — hết hiệu lực
 Nguồn thô: data/raw/vn_ai/127-QD-TTg_chien-luoc-quoc-gia-tri-tue-nhan-tao-den-2030.pdf
 

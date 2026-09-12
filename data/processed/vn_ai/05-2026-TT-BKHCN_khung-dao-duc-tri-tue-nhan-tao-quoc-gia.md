@@ -1,4 +1,4 @@
-# Thông tư ban hành Khung đạo đức trí tuệ nhân tạo quốc gia
+# Thông tư 05/2026/TT-BKHCN — Thông tư ban hành Khung đạo đức trí tuệ nhân tạo quốc gia
 05/2026/TT-BKHCN — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/05-2026-TT-BKHCN_khung-dao-duc-tri-tue-nhan-tao-quoc-gia.docx
 

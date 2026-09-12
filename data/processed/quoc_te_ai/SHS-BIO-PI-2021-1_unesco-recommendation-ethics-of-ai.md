@@ -1,4 +1,4 @@
-# UNESCO Recommendation on the Ethics of Artificial Intelligence
+# SHS/BIO/PI/2021/1 — UNESCO Recommendation on the Ethics of Artificial Intelligence
 SHS/BIO/PI/2021/1 — còn hiệu lực
 Nguồn thô: data/raw/quoc_te_ai/SHS-BIO-PI-2021-1_unesco-recommendation-ethics-of-ai.pdf
 

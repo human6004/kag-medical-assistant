@@ -1,4 +1,4 @@
-# Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo
+# Nghị định 142/2026/NĐ-CP — Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo
 142/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/142-2026-ND-CP_quy-dinh-chi-tiet-luat-tri-tue-nhan-tao.docx
 

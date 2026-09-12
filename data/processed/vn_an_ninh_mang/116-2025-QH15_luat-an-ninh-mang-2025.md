@@ -1,4 +1,4 @@
-# Luật An ninh mạng (2025)
+# Luật 116/2025/QH15 — Luật An ninh mạng (2025)
 116/2025/QH15 — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/116-2025-QH15_luat-an-ninh-mang-2025.html
 

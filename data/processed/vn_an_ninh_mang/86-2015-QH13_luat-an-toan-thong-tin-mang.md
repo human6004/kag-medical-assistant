@@ -1,4 +1,4 @@
-# Luật An toàn thông tin mạng
+# Luật 86/2015/QH13 — Luật An toàn thông tin mạng
 86/2015/QH13 — hết hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/86-2015-QH13_luat-an-toan-thong-tin-mang.html
 

@@ -1,4 +1,4 @@
-# Nghị định quy định hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng
+# Nghị định 332/2026/NĐ-CP — Nghị định quy định hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng
 332/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/332-2026-ND-CP_kinh-doanh-san-pham-dich-vu-an-ninh-mang.docx
 

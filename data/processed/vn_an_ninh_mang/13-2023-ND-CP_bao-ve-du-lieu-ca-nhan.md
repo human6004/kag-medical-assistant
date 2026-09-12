@@ -1,4 +1,4 @@
-# Nghị định về bảo vệ dữ liệu cá nhân
+# Nghị định 13/2023/NĐ-CP — Nghị định về bảo vệ dữ liệu cá nhân
 13/2023/NĐ-CP — hết hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/13-2023-ND-CP_bao-ve-du-lieu-ca-nhan.html
 

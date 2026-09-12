@@ -1,4 +1,4 @@
-# Luật An ninh mạng (2018)
+# Luật 24/2018/QH14 — Luật An ninh mạng (2018)
 24/2018/QH14 — hết hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/24-2018-QH14_luat-an-ninh-mang.html
 

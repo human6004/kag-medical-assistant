@@ -1,4 +1,4 @@
-# Luật Trí tuệ nhân tạo
+# Luật 134/2025/QH15 — Luật Trí tuệ nhân tạo
 134/2025/QH15 — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/134-2025-QH15_luat-tri-tue-nhan-tao.html
 

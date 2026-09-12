@@ -1,4 +1,4 @@
-# Quyết định phê duyệt Chương trình quốc gia phát triển nhân lực trí tuệ nhân tạo đến năm 2030, định hướng đến năm 2035
+# Quyết định 1528/QĐ-TTg — Quyết định phê duyệt Chương trình quốc gia phát triển nhân lực trí tuệ nhân tạo đến năm 2030, định hướng đến năm 2035
 1528/QĐ-TTg — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/1528-QD-TTg_chuong-trinh-quoc-gia-phat-trien-nhan-luc-ai.docx
 

@@ -1,4 +1,4 @@
-# Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân
+# Nghị định 330/2026/NĐ-CP — Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân
 330/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/330-2026-ND-CP_xu-phat-vi-pham-hanh-chinh-linh-vuc-an-ninh-mang.docx
 

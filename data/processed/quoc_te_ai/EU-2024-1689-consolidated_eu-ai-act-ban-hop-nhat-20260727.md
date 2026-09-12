@@ -1,4 +1,4 @@
-# Regulation (EU) 2024/1689 (EU AI Act) - bản hợp nhất ngày 27/07/2026
+# Regulation (EU) 2024/1689 (consolidated 27/07/2026) — Regulation (EU) 2024/1689 (EU AI Act) - bản hợp nhất ngày 27/07/2026
 Regulation (EU) 2024/1689 (consolidated 27/07/2026) — còn hiệu lực
 Nguồn thô: data/raw/quoc_te_ai/EU-2024-1689_eu-ai-act_ban-hop-nhat-20260727.html
 

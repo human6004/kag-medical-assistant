@@ -1,4 +1,4 @@
-# Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law
+# CETS No. 225 — Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law
 CETS No. 225 — chưa có hiệu lực
 Nguồn thô: data/raw/quoc_te_ai/CETS-225_coe-framework-convention-ai-human-rights.pdf
 
