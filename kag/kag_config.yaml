@@ -41,13 +41,16 @@ kag_builder_pipeline:
       type: schema_free_extractor # kag.builder.component.extractor.schema_free_extractor.SchemaFreeExtractor
       llm: *openie_llm
       ner_prompt:
-        type: default_ner # kag.builder.prompt.default.ner.OpenIENERPrompt
+        type: legal_ner # kag/builder/prompt/ner.py
       std_prompt:
-        type: default_std # kag.builder.prompt.default.std.OpenIEEntitystandardizationdPrompt
+        type: legal_std # kag/builder/prompt/std.py
       triple_prompt:
-        type: default_triple # kag.builder.prompt.default.triple.OpenIETriplePrompt
+        type: legal_triple # kag/builder/prompt/triple.py
     reader:
       type: md_reader # kag.builder.component.reader.markdown_reader.MarkDownReader
+      # cat mot chunk = mot Dieu. Heading Dieu nam o muc h4 trong data/processed,
+      # mac dinh 3 se cat o muc Muc va gop nhieu Dieu vao chung mot chunk.
+      cut_depth: 4
     post_processor:
       type: kag_post_processor # kag.builder.component.postprocessor.kag_postprocessor.KAGPostProcessor
     splitter:
