@@ -956,7 +956,7 @@ Mẫu số 10
 
 Báo cáo đánh giá tác động xử lý dữ liệu cá nhân
 
-Mẫu số 01a
+#### Mẫu số 01a
 
 TÊN TỔ CHỨC
 
@@ -1012,7 +1012,7 @@ Nơi nhận: - Như trên; ...
 
 TM. TỔ CHỨC, DOANH NGHIỆP (Ký, ghi rõ họ tên, đóng dấu)
 
-Mẫu số 01b
+#### Mẫu số 01b
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
 
@@ -1052,7 +1052,7 @@ Tôi xin cam kết chịu trách nhiệm về tính chính xác và tính hợp 
 
 NGƯỜI NỘP HỒ SƠ (Ký, ghi rõ họ tên)
 
-Mẫu số 02a
+#### Mẫu số 02a
 
 TÊN TỔ CHỨC
 
@@ -1110,7 +1110,7 @@ Nơi nhận: - Như trên; ...
 
 TM. TỔ CHỨC, DOANH NGHIỆP (Ký, ghi rõ họ tên, đóng dấu)
 
-Mẫu số 02b
+#### Mẫu số 02b
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
 
@@ -1150,7 +1150,7 @@ Tôi xin cam kết chịu trách nhiệm về tính chính xác và tính hợp 
 
 NGƯỜI NỘP HỒ SƠ (Ký, ghi rõ họ tên)
 
-Mẫu số 03a
+#### Mẫu số 03a
 
 TÊN TỔ CHỨC
 
@@ -1210,7 +1210,7 @@ Nơi nhận: - Như trên; ...
 
 TM. TỔ CHỨC, DOANH NGHIỆP (Ký, ghi rõ họ tên, đóng dấu)
 
-Mẫu số 03b
+#### Mẫu số 03b
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
 
@@ -1254,7 +1254,7 @@ Tôi xin cam kết chịu trách nhiệm về tính chính xác và tính hợp 
 
 NGƯỜI NỘP HỒ SƠ (Ký, ghi rõ họ tên)
 
-Mẫu số 04
+#### Mẫu số 04
 
 TÊN TỔ CHỨC
 
@@ -1354,7 +1354,7 @@ Ghi chú
 
 TM. TỔ CHỨC, DOANH NGHIỆP (Ký, ghi rõ họ tên, đóng dấu)
 
-Mẫu số 05
+#### Mẫu số 05
 
 TÊN TỔ CHỨC
 
@@ -1376,7 +1376,7 @@ Theo đề nghị của.........................................................
 
 CHỨNG NHẬN
 
-#### Điều 1. .............................. (1) đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân có thông tin như sau:
+Điều 1. .............................. (1) đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân có thông tin như sau:
 
 1. Tên giao dịch của doanh nghiệp bằng tiếng Việt hoặc tiếng nước ngoài:
 
@@ -1394,13 +1394,13 @@ CHỨNG NHẬN
 
 7. E-mail: ......................................................................................................
 
-#### Điều 2. ........................... (1) phải thực hiện đúng các quy định tại Nghị định số 356/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Bảo vệ dữ liệu cá nhân và các quy định khác của pháp luật có liên quan.
+Điều 2. ........................... (1) phải thực hiện đúng các quy định tại Nghị định số 356/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Bảo vệ dữ liệu cá nhân và các quy định khác của pháp luật có liên quan.
 
 #### Điều 3. Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân này có hiệu lực kể từ ngày ký.
 
 THỦ TRƯỞNG CƠ QUAN (Ký, đóng dấu, ghi rõ chức vụ, họ tên)
 
-Mẫu số 06
+#### Mẫu số 06
 
 TÊN TỔ CHỨC
 
@@ -1490,7 +1490,7 @@ b) .............................................................................
 
 TM. TỔ CHỨC, DOANH NGHIỆP (Ký, ghi rõ họ tên, đóng dấu)
 
-Mẫu số 07
+#### Mẫu số 07
 
 BỘ CÔNG AN
 
@@ -1532,7 +1532,7 @@ Nơi nhận: - Như Điều 3; - Lưu: VT, A05.
 
 THỦ TRƯỞNG CƠ QUAN (Ký, đóng dấu, ghi rõ chức vụ, họ tên)
 
-Mẫu số 08
+#### Mẫu số 08
 
 TÊN TỔ CHỨC
 
@@ -2038,7 +2038,7 @@ Dịch vụ hợp tác
 
 Ghi chú (Lý do, nội dung giải thích)
 
-Mẫu số 10
+#### Mẫu số 10
 
 HỒ SƠ ĐÁNH GIÁ TÁC ĐỘNG XỬ LÝ DỮ LIỆU CÁ NHÂN
 

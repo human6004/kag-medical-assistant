@@ -721,11 +721,11 @@
       "docNumber": "NIST AI 100-1",
       "docType": "Framework kỹ thuật (không phải văn bản quy phạm pháp luật)",
       "issuingBody": "National Institute of Standards and Technology (NIST), U.S. Department of Commerce",
-      "dateEffective": "2023-01",
-      "dateIssued": "2023-01",
+      "dateEffective": "2023-01-01",
+      "dateIssued": "2023-01-01",
       "status": "còn hiệu lực",
       "sourceUrl": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf",
-      "desc": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). Trang bìa ghi 'January 2023'. Đã kiểm tra không có bản sửa đổi (NIST.AI.100-1r1.pdf trả về 404).",
+      "desc": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). Trang bìa ghi 'January 2023'. Đã kiểm tra không có bản sửa đổi (NIST.AI.100-1r1.pdf trả về 404). Bản gốc chỉ ghi tháng, chuẩn hoá ngày về 2023-01-01 để so sánh được.",
       "semanticType": "Framework kỹ thuật (không phải văn bản quy phạm pháp luật)"
     }
   },

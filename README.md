@@ -13,14 +13,22 @@ hybridRAG/  nền so sánh, chạy độc lập, không liên quan tới kag/
 ```
 
 Kho dữ liệu nằm một chỗ duy nhất và cả hai bên cùng đọc từ đó, nên không sợ lệch
-bản. 46 văn bản đã làm sạch, chia bốn nhóm: luật an ninh mạng Việt Nam, luật an
-ninh mạng quốc tế, luật AI Việt Nam, luật AI quốc tế.
+bản. 46 văn bản đã làm sạch, nhưng chỉ 23 văn bản tiếng Việt được index. 23 văn
+bản quốc tế nằm ở `reference_en/`, không engine nào đọc.
+
+Lý do tách: câu hỏi là tiếng Việt và đáp án phải là điều khoản Việt Nam, trong khi
+nửa tiếng Anh chiếm 58% số ký tự. Trộn chung thì thực thể hai ngôn ngữ không gộp
+được, đồ thị vỡ đôi và chi phí gọi AI tăng gấp 2,4 lần. Các văn bản quốc tế vẫn có
+mặt trong đồ thị dưới dạng node văn bản, nạp từ `metadata/`, chỉ là không có chunk
+nội dung.
 
 ```
 data/
-├── processed/   46 file .md, đây là thứ cả hai engine đọc
-├── raw/         bản gốc pdf, docx, html. Không đưa vào git vì nặng 59MB
-├── metadata/    62 file json mô tả từng văn bản
+├── processed/     23 file .md luật Việt Nam, đây là thứ cả hai engine đọc
+├── reference_en/  23 file .md luật quốc tế, để đối chiếu, KHÔNG index
+├── graph/         nodes.json và edges.json sinh từ metadata, nạp thẳng vào đồ thị
+├── raw/           bản gốc pdf, docx, html. Không đưa vào git vì nặng 59MB
+├── metadata/      50 file json mô tả từng văn bản
 ├── README.md    quy tắc đặt tên và cấu trúc dữ liệu
 └── SOURCES.md   danh sách nguồn đã thẩm định
 ```
@@ -78,11 +86,11 @@ trước khi cho đi tiếp.
 knext schema commit
 ```
 
-**5. Dựng đồ thị.** Chạy trong thư mục `kag/builder/`. Lệnh này đọc toàn bộ 46
-văn bản trong `data/processed/`.
+**5. Dựng đồ thị.** Chạy trong thư mục `kag/builder/`. Lệnh này đọc 23 văn bản
+tiếng Việt trong `data/processed/`.
 
-Chạy thử một file trước đã. Mỗi văn bản là một lần tốn tiền gọi AI, và 46 văn bản
-là hơn 4 triệu chữ. Cách rẻ nhất để thử: tạm đổi dòng cuối `indexer.py` trỏ vào
+Chạy thử một file trước đã. Mỗi văn bản là một lần tốn tiền gọi AI, và 23 văn bản
+là hơn 1,7 triệu chữ. Cách rẻ nhất để thử: tạm đổi dòng cuối `indexer.py` trỏ vào
 một thư mục con chứa đúng một file, thấy node hiện trên giao diện web rồi mới trỏ
 lại `data/processed`.
 
@@ -90,7 +98,15 @@ lại `data/processed`.
 python indexer.py
 ```
 
-**6. Hỏi.** Sửa `kag/solver/data/questions.json` theo bộ câu hỏi của bạn, rồi
+**6. Nạp metadata vào đồ thị.** Bước này đưa ngày hiệu lực, trạng thái còn hay hết
+hiệu lực, và chuỗi thay thế giữa các văn bản vào đồ thị. Scanner chỉ nhận `.md` nên
+đây là đường duy nhất. Chạy từ thư mục gốc project.
+
+```bash
+python kag/builder/metadata_to_graph.py && python kag/builder/injection.py
+```
+
+**7. Hỏi.** Sửa `kag/solver/data/questions.json` theo bộ câu hỏi của bạn, rồi
 chạy trong thư mục `solver/`.
 
 ```bash

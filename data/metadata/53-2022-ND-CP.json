@@ -16,7 +16,9 @@
   "status_conflict": "vbpl.vn tại 2026-09-09 vẫn ghi 'Còn hiệu lực'. Nghị định 333/2026/NĐ-CP không có câu bãi bỏ trực tiếp Nghị định 53/2022/NĐ-CP, Điều 31 chỉ quy định chuyển tiếp hồ sơ. Khoảng 01/7/2026 đến 19/8/2026 chưa có văn bản nào xử lý rõ.",
   "amends": [],
   "amended_by": [],
-  "superseded_by": [],
+  "superseded_by": [
+    "333/2026/NĐ-CP"
+  ],
   "supersedes": [],
   "implements": [
     "24/2018/QH14",

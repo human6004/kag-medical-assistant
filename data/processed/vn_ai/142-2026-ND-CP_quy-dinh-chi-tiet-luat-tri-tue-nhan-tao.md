@@ -2,7 +2,7 @@
 142/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/142-2026-ND-CP_quy-dinh-chi-tiet-luat-tri-tue-nhan-tao.docx
 
-﻿
+
 
 CHÍNH PHỦ
 

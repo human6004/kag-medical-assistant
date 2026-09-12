@@ -2,7 +2,7 @@
 332/2026/NĐ-CP — còn hiệu lực
 Nguồn thô: data/raw/vn_an_ninh_mang/332-2026-ND-CP_kinh-doanh-san-pham-dich-vu-an-ninh-mang.docx
 
-﻿
+
 
 CHÍNH PHỦ
 
@@ -504,7 +504,7 @@ Mẫu số 12
 
 Thông báo từ chối cấp/cấp đổi/cấp lại/gia hạn giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng
 
-Phụ lục I - Mẫu số 01
+#### Phụ lục I - Mẫu số 01
 
 .........(1)……
 
@@ -552,7 +552,7 @@ Theo đề nghị của.........................................................
 
 QUYẾT ĐỊNH:
 
-#### Điều 1. Cho phép ……………………………. (3) được kinh doanh sản phẩm, dịch vụ an ninh mạng.
+Điều 1. Cho phép ……………………………. (3) được kinh doanh sản phẩm, dịch vụ an ninh mạng.
 
 1. Thông tin doanh nghiệp
 
@@ -578,9 +578,9 @@ b) …………………………………….. (5);
 
 c) ………………………..…………… (5);
 
-#### Điều 2. ………………………………. (3) phải thực hiện đúng các quy định tại Nghị định số …………./2026/NĐ-CP ngày … tháng … năm 2026 của quy định về hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng.
+Điều 2. ………………………………. (3) phải thực hiện đúng các quy định tại Nghị định số …………./2026/NĐ-CP ngày … tháng … năm 2026 của quy định về hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng.
 
-#### Điều 3. Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày … tháng ... năm …; thay thế cho Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng …… /GPKD ngày ... tháng ... năm …. (6).
+Điều 3. Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày … tháng ... năm …; thay thế cho Giấy phép kinh doanh sản phẩm, dịch vụ an ninh mạng …… /GPKD ngày ... tháng ... năm …. (6).
 
 THỦ TRƯỞNG CƠ QUAN CÓ THẨM QUYỀN
 
@@ -600,7 +600,7 @@ Chú thích:
 
 (6) Sử dụng trong trường hợp cấp đổi hoặc cấp lại Giấy phép.
 
-Phụ lục I - Mẫu số 02
+#### Phụ lục I - Mẫu số 02
 
 .........(1)……
 
@@ -646,7 +646,7 @@ Theo đề nghị của.........................................................
 
 QUYẾT ĐỊNH:
 
-#### Điều 1. Cho phép ....... (5) (Giấy chứng nhận đăng ký doanh nghiệp số ............. do ……… cấp ngày … tháng … năm ….) được xuất khẩu, nhập khẩu sản phẩm an ninh mạng:
+Điều 1. Cho phép ....... (5) (Giấy chứng nhận đăng ký doanh nghiệp số ............. do ……… cấp ngày … tháng … năm ….) được xuất khẩu, nhập khẩu sản phẩm an ninh mạng:
 
 1. Tên sản phẩm:………………………………………………………………… ……….
 
@@ -666,9 +666,9 @@ QUYẾT ĐỊNH:
 
 (Trường hợp nhập khẩu nhiều loại sản phẩm thì ban hành danh mục kèm theo Giấy phép)
 
-#### Điều 2. ………………………………. (5) phải thực hiện đúng các quy định tại Nghị định số …………./2026/NĐ-CP ngày …… tháng …… năm 2026 quy định về hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng và các quy định khác của pháp luật có liên quan.
+Điều 2. ………………………………. (5) phải thực hiện đúng các quy định tại Nghị định số …………./2026/NĐ-CP ngày …… tháng …… năm 2026 quy định về hoạt động kinh doanh sản phẩm, dịch vụ an ninh mạng và các quy định khác của pháp luật có liên quan.
 
-#### Điều 3. Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày ……tháng .... năm…./.
+Điều 3. Giấy phép xuất khẩu, nhập khẩu sản phẩm an ninh mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày ……tháng .... năm…./.
 
 THỦ TRƯỞNG CƠ QUAN
 
@@ -690,7 +690,7 @@ Chú thích:
 
 (6) Thủ trưởng đơn vị trình cấp Giấy phép.
 
-Phụ lục I - Mẫu số 03
+#### Phụ lục I - Mẫu số 03
 
 ……(2)………
 
@@ -782,7 +782,7 @@ Chú thích:
 
 (3) Tên cơ quan có thẩm quyền.
 
-Phụ lục I - Mẫu số 04
+#### Phụ lục I - Mẫu số 04
 
 ……(2)……
 
@@ -882,7 +882,7 @@ Chú thích:
 
 (3) Tên cơ quan có thẩm quyền.
 
-Phụ lục I - Mẫu số 05
+#### Phụ lục I - Mẫu số 05
 
 Ảnh
 
@@ -1034,7 +1034,7 @@ KHAI ĐÚNG SỰ THẬT
 
 (Ký ghi rõ họ tên, đóng dấu giáp lai)
 
-Phụ lục I - Mẫu số 07
+#### Phụ lục I - Mẫu số 07
 
 (TÊN TỔ CHỨC,
 
@@ -1070,7 +1070,7 @@ Mô tả, chứng minh sự đáp ứng với các quy chuẩn kỹ thuật và 
 
 Phụ lục các tài liệu đặc tả thiết bị kỹ thuật hệ thống, các chứng nhận, chứng chỉ tuân thủ tiêu chuẩn đã được cấp.
 
-Phụ lục I - Mẫu số 08
+#### Phụ lục I - Mẫu số 08
 
 (TÊN TỔ CHỨC,
 
@@ -1122,7 +1122,7 @@ Phần 3. Phương án bảo đảm chất lượng sản phẩm, dịch vụ
 
 5. Thủ tục giải quyết khiếu nại về chất lượng dịch vụ của khách hàng.
 
-Phụ lục I - Mẫu số 09
+#### Phụ lục I - Mẫu số 09
 
 (TÊN DOANH NGHIỆP)
 
@@ -1180,7 +1180,7 @@ NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT CỦA DOANH NGHIỆP
 
 (Ký, ghi rõ họ tên, chức danh và đóng dấu)
 
-Phụ lục I - Mẫu số 10
+#### Phụ lục I - Mẫu số 10
 
 .........(1)……
 
@@ -1262,7 +1262,7 @@ Chú thích:
 
 (4) Tên của người nộp hồ sơ và ghi rõ là nộp hồ sơ cho tổ chức, doanh nghiệp nào.
 
-Phụ lục I - Mẫu số 11
+#### Phụ lục I - Mẫu số 11
 
 .........(1)........
 
@@ -1322,7 +1322,7 @@ Chú thích:
 
 (2) Tên của người nộp hồ sơ và ghi rõ là nộp hồ sơ cho tổ chức, doanh nghiệp nào.
 
-Phụ lục I - Mẫu số 12
+#### Phụ lục I - Mẫu số 12
 
 .........(1)........
 
@@ -1372,7 +1372,7 @@ Chú thích:
 
 (4) Tên doanh nghiệp đề nghị cấp/cấp đổi/ cấp lại/gia hạn Giấy phép.
 
-Phụ lục II
+#### Phụ lục II
 
 DANH MỤC SẢN PHẨM AN NINH MẠNG XUẤT KHẨU, NHẬP KHẨU THEO GIẤY PHÉP
 

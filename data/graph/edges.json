@@ -288,6 +288,24 @@
     "properties": {}
   },
   {
+    "id": "Nghị định 333/2026/NĐ-CP-supersedes-Nghị định 53/2022/NĐ-CP",
+    "from": "Nghị định 333/2026/NĐ-CP",
+    "fromType": "LegalDocument",
+    "to": "Nghị định 53/2022/NĐ-CP",
+    "toType": "LegalDocument",
+    "label": "supersedes",
+    "properties": {}
+  },
+  {
+    "id": "Nghị định 53/2022/NĐ-CP-supersededBy-Nghị định 333/2026/NĐ-CP",
+    "from": "Nghị định 53/2022/NĐ-CP",
+    "fromType": "LegalDocument",
+    "to": "Nghị định 333/2026/NĐ-CP",
+    "toType": "LegalDocument",
+    "label": "supersededBy",
+    "properties": {}
+  },
+  {
     "id": "Nghị định 53/2022/NĐ-CP-implementsDoc-Luật 86/2015/QH13",
     "from": "Nghị định 53/2022/NĐ-CP",
     "fromType": "LegalDocument",

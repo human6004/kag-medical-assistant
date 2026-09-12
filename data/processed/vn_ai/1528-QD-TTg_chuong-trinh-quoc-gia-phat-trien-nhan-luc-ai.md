@@ -2,7 +2,7 @@
 1528/QĐ-TTg — còn hiệu lực
 Nguồn thô: data/raw/vn_ai/1528-QD-TTg_chuong-trinh-quoc-gia-phat-trien-nhan-luc-ai.docx
 
-﻿
+
 
 THỦ TƯỚNG CHÍNH PHỦ
 
@@ -258,7 +258,7 @@ PHÓ THỦ TƯỚNG
 
 Lê Tiến Châu
 
-Phụ lục I
+#### Phụ lục I
 
 LỘ TRÌNH THỰC HIỆN CÁC CHỈ TIÊU ĐÀO TẠO, PHÁT TRIỂN
 
@@ -512,7 +512,7 @@ Bộ Giáo dục và Đào tạo
 
 Ghi chú: Chỉ tiêu 1.500 chuyên gia là bộ phận thuộc chỉ tiêu 10.000 nhân lực trình độ cao; các chỉ tiêu đào tạo ở nước ngoài có thể được tính trong tổng chỉ tiêu tương ứng nếu đáp ứng tiêu chí của Chương trình.
 
-Phụ lục II
+#### Phụ lục II
 
 LỘ TRÌNH PHÁT TRIỂN MẠNG LƯỚI CƠ SỞ ĐÀO TẠO,
 
@@ -648,7 +648,7 @@ Bộ Khoa học và Công nghệ
 
 60
 
-Phụ lục III
+#### Phụ lục III
 
 LỘ TRÌNH PHÁT TRIỂN HỢP TÁC QUỐC TẾ, DOANH NGHIỆP VÀ CÁC CHƯƠNG TRÌNH ĐÀO TẠO TRÍ TUỆ NHÂN TẠO ỨNG DỤNG GIAI ĐOẠN 2026 - 2030
 
@@ -782,7 +782,7 @@ Bộ Giáo dục và Đào tạo
 
 100
 
-Phụ lục IV
+#### Phụ lục IV
 
 DANH MỤC CÁC NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN CHƯƠNG TRÌNH QUỐC GIA
 

@@ -20,8 +20,13 @@ from pathlib import Path
 
 from metadata_to_graph import ROOT, load_metadata, node_name
 
-MD_DIR = ROOT / "data" / "processed"
+# reference_en khong duoc index nhung van phai dung dinh dang, phong khi nhap lai
+MD_DIRS = [ROOT / "data" / "processed", ROOT / "data" / "reference_en"]
 SEP = " — "
+
+
+def all_md():
+    return sorted(q for d in MD_DIRS if d.is_dir() for q in d.rglob("*.md"))
 
 
 def new_h1(name, title):
@@ -32,7 +37,7 @@ def plan():
     metas = {m["doc_id"]: m for m in load_metadata()}
     todo, skipped, orphan = [], [], []
 
-    for path in sorted(MD_DIR.rglob("*.md")):
+    for path in all_md():
         doc_id = path.name.split("_")[0]
         meta = metas.get(doc_id)
         if not meta:
@@ -66,7 +71,7 @@ def self_check():
     """Moi h1 phai bat dau bang dung ten node ma metadata_to_graph sinh ra."""
     metas = {m["doc_id"]: m for m in load_metadata()}
     bad = []
-    for path in sorted(MD_DIR.rglob("*.md")):
+    for path in all_md():
         meta = metas.get(path.name.split("_")[0])
         if not meta:
             continue
